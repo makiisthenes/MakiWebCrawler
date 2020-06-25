@@ -1,0 +1,4 @@
+# News outlets URL.
+bbc.com
+yahoo.com
+bing.com
